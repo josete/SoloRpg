@@ -8,7 +8,7 @@ It uses a Large Language Model (LLM) to generate adventures or any content the p
 1. Clone the repository:
 
     ```bash
-    git clone <REPOSITORY_URL>
+    git clone https://github.com/josete/SoloRpg.git
     ```
 
 2. Navigate to the project directory:
