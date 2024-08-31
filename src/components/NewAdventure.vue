@@ -12,10 +12,10 @@ function createAdventure(){
 <template>
     <div class="content" id="newAdventureWindow">            
         <div class="ui form">
-            <div class="field">
+            <!--<div class="field">
                 <label>Settings:</label>
                 <textarea v-model="settings"></textarea>
-            </div>
+            </div>-->
             <div class="field">
                 <label>Idioma:</label>
                 <input type="text" v-model="language">
